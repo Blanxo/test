@@ -1,0 +1,14 @@
+* {
+	border: none;
+}
+
+.debug {
+	border: 1px dotted red;
+}
+
+#debug-btn {
+	position: fixed;
+	bottom: 50px;
+	right: 10px;
+	z-index: 9999;
+}
